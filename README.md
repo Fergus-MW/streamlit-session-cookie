@@ -98,7 +98,7 @@ Apache 2.0 License - feel free to use this code in your own projects.
 
 ## Author
 
-Your Name
+Fergus McKenzie-Wilson
 
 ## Support
 
