@@ -89,7 +89,7 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ## License
 
-MIT License - feel free to use this code in your own projects.
+Apache 2.0 License - feel free to use this code in your own projects.
 
 ## Acknowledgments
 
